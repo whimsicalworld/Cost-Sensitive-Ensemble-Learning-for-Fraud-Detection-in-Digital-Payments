@@ -1,0 +1,2 @@
+# Cost-Sensitive-Ensemble-Learning-for-Fraud-Detection-in-Digital-Payments
+An FinTech project that applies cost-sensitive machine learning to rank potentially fraudulent digital payments. On 590,540 IEEE-CIS transactions, a class-weighted Random Forest achieved 0.6377 held-out average precision versus 0.3523 for a Decision Tree baseline. The project documents feature engineering, model evaluation and offline scoring.
